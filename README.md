@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @omar-aimd-ahmed
+- 👀 I’m interested in machine learning and AI
+- 🌱 I’m currently learning Python3
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me (don't)
